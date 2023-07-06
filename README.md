@@ -1,4 +1,4 @@
-# Dual Cross-Attention Multi-contrast Super-Resolution network (DCAMSR)
+# Accurate multi-contrast MRI super-resolution via a dual cross-attention transformer network (DCAMSR)
 
 <div align="center">
   <img src="figure/Architecture.png" width="70%">
@@ -6,7 +6,6 @@
 
 # News
 ## 2023.2.3 here we are 🪧🪧🪧
-## 2023.2.19 Finish all architectures 
 ## 2023.5.24 Early Accepted By MICCAI2023 🎆🎆🎆
 
 ## Dependencies
