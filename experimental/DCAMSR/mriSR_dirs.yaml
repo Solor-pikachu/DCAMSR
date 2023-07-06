@@ -1,0 +1,11 @@
+M4Raw_path: /home/jupyter-huangshoujin/shoujinhuang/data/M4RawV1.1
+M4Raw_train_csv_path: ../../dataset/M4Raw_train_split_less.csv
+M4Raw_val_csv_path:   ../../dataset/M4Raw_val_split_less.csv
+M4Raw_test_csv_path:  ../../dataset/M4Raw_val_split_less.csv
+
+knee_path: /home/jupyter-huangshoujin/shoujinhuang/data/fastmri
+knee_train_csv_path: ../../dataset/singlecoil_train_split_less.csv
+knee_val_csv_path:   ../../dataset/singlecoil_val_split_less.csv
+knee_test_csv_path:  ../../dataset/singlecoil_val_split_less.csv
+
+log_path: DCAMSR_log
